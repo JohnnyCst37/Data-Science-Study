@@ -135,7 +135,7 @@ Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Vis
 
 -----
 
-### 7\. Boas Práticas e Modularização 🚀
+### 7\. Boas Práticas e Modularização 
 
 | Função/Prática | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
