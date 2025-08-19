@@ -6,14 +6,14 @@
 ## 📑 Sumário
 
   - [Visão Geral](#visão-geral)
-  - [Estrutura e Tópicos](#estrutura-e-topicos)
-  - [Coleta e Geração de Dados](#coleta-e-geracao-de-dados)
-  - [Limpeza e Preparação de Dados](#limpeza-e-preparacao-de-dados)
+  - [Estrutura e Tópicos](#estrutura-e-tópicos)
+  - [Coleta e Geração de Dados](#coleta-e-geração-de-dados)
+  - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
   - [Engenharia de Recursos](#engenharia-de-recursos)
-  - [Análise Estatística](#analise-estatistica)
-  - [Transformação de Variáveis](transformacao-de-variaveis)
-  - [Visualização de Dados](#visualizacao-de-dados)
-  - [Boas Práticas](#boas-praticas)
+  - [Análise Estatística](#análise-estatística)
+  - [Transformação de Variáveis](transformacao-de-variáveis)
+  - [Visualização de Dados](#visualização-de-dados)
+  - [Boas Práticas](#boas-práticas)
   - [Autor](#autor)
 
 -----
