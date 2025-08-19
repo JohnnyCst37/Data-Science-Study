@@ -7,7 +7,7 @@
 
   - [Visão Geral](#visão-geral)
   - [Estrutura e Tópicos](#estrutura-e-tópicos)
-  - [Coleta e Geração de Dados](#-coleta-e-geração-de-dados)
+  - [Coleta e Geração de Dados](#-1\.-coleta-e-geração-de-dados)
   - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
   - [Engenharia de Recursos](#engenharia-de-recursos)
   - [Análise Estatística](#análise-estatística)
