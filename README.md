@@ -5,7 +5,7 @@
 
 ## 📑 Sumário
 
-  - [Visão Geral](#visao-geral)
+  - [Visão Geral](#visão-geral)
   - [Estrutura e Tópicos](#estrutura-e-topicos)
   - [Coleta e Geração de Dados](#coleta-e-geracao-de-dados)
   - [Limpeza e Preparação de Dados](#limpeza-e-preparacao-de-dados)
