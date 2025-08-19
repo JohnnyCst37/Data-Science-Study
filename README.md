@@ -11,7 +11,7 @@
   - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
   - [Engenharia de Recursos](#engenharia-de-recursos-básica)
   - [Análise Estatística](#análise-estatística-e-agregação)
-  - [Transformação de Variáveis](transformação-de-variáveis-pré-processamento)
+  - [Transformação de Variáveis](#transformação-de-variáveis)
   - [Visualização de Dados](#visualização-de-dados-essenciais-resumo)
   - [Boas Práticas](#boas-práticas-e-modularização)
   - [Autor](#autor)
@@ -97,9 +97,9 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### Transformação de Variáveis Pré processamento
+### Transformação de Variáveis
 
-Esta etapa é crucial para preparar dados para modelos de Machine Learning.
+ Pré processamento: Esta etapa é crucial para preparar dados para modelos de Machine Learning.
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
