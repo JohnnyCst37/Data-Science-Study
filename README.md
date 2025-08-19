@@ -9,11 +9,11 @@
   - [Estrutura e Tópicos](#estrutura-e-tópicos)
   - [Coleta e Geração de Dados](#coleta-e-geração-de-dados)
   - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
-  - [Engenharia de Recursos](#engenharia-de-recursos)
-  - [Análise Estatística](#análise-estatística)
-  - [Transformação de Variáveis](transformacao-de-variáveis)
-  - [Visualização de Dados](#visualização-de-dados)
-  - [Boas Práticas](#-boas-práticas)
+  - [Engenharia de Recursos](#engenharia-de-recursos:-feature-engineering-básico)
+  - [Análise Estatística](#análise-estatística-e-agregação)
+  - [Transformação de Variáveis](transformação-de-variáveis:-pré-processamento)
+  - [Visualização de Dados](#visualização-de-dados-essenciais:-resumo)
+  - [Boas Práticas](#-boas-práticas-e-modularização)
   - [Autor](#autor)
 
 -----
@@ -64,7 +64,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### Engenharia de Recursos (Feature Engineering Básico)
+### Engenharia de Recursos: Feature Engineering Básico
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### Transformação de Variáveis (Pré-processamento) 🔄
+### Transformação de Variáveis: Pré-processamento
 
 Esta etapa é crucial para preparar dados para modelos de Machine Learning.
 
@@ -115,7 +115,7 @@ Esta etapa é crucial para preparar dados para modelos de Machine Learning.
 
 -----
 
-### Visualização de Dados Essenciais (Resumo)
+### Visualização de Dados Essenciais: Resumo
 
 Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Visualização de Dados".
 
