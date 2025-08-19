@@ -151,7 +151,7 @@ Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Vis
   * Tratar erros com `try-except` e `raise` permite que o programa se recupere de falhas ou avise o usuário sobre um problema de forma clara.
 
 -----
-
+### 8\. Autor 
 **Johnny Sorato Martins Fernandes**  
 Business Consultant | Data & Visualization Specialist | Executive Director at Tutoreanos — Primavera do Leste Unit
 
