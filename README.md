@@ -28,7 +28,7 @@ A estrutura do caderno é projetada para ser um ponto de referência rápido e o
 
 O caderno está organizado em seções que seguem um fluxo de trabalho lógico de análise de dados. Cada seção detalha as funções, seu propósito, biblioteca utilizada e exemplos práticos.
 
-## Coleta e Geração de Dados
+### Coleta e Geração de Dados
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### 3\. Engenharia de Recursos (Feature Engineering Básico)
+### Engenharia de Recursos (Feature Engineering Básico)
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### 4\. Análise Estatística e Agregação
+### Análise Estatística e Agregação
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### 5\. Transformação de Variáveis (Pré-processamento) 🔄
+### Transformação de Variáveis (Pré-processamento) 🔄
 
 Esta etapa é crucial para preparar dados para modelos de Machine Learning.
 
@@ -115,7 +115,7 @@ Esta etapa é crucial para preparar dados para modelos de Machine Learning.
 
 -----
 
-### 6\. Visualização de Dados Essenciais (Resumo)
+### Visualização de Dados Essenciais (Resumo)
 
 Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Visualização de Dados".
 
@@ -135,7 +135,7 @@ Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Vis
 
 -----
 
-### 7\. Boas Práticas e Modularização 
+### Boas Práticas e Modularização 
 
 | Função/Prática | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
@@ -151,7 +151,7 @@ Para detalhes mais profundos e exemplos, consulte o "Caderno de Anotações: Vis
   * Tratar erros com `try-except` e `raise` permite que o programa se recupere de falhas ou avise o usuário sobre um problema de forma clara.
 
 -----
-### 8\. Autor 
+### Autor 
 **Johnny Sorato Martins Fernandes**  
 Business Consultant | Data & Visualization Specialist | Executive Director at Tutoreanos — Primavera do Leste Unit
 
