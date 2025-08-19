@@ -7,8 +7,8 @@
 
   - [Visão Geral](#visão-geral)
   - [Estrutura e Tópicos](#estrutura-e-tópicos)
-  - [Coleta e Geração de Dados](#-1\.-coleta-e-geração-de-dados-📥)
-  - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
+  - [Coleta e Geração de Dados](#-1\.-coleta-e-geração-de-dados)
+  - [Limpeza e Preparação de Dados](#-2\.-limpeza-e-preparação-de-dados)
   - [Engenharia de Recursos](#engenharia-de-recursos)
   - [Análise Estatística](#análise-estatística)
   - [Transformação de Variáveis](transformacao-de-variáveis)
@@ -28,7 +28,7 @@ A estrutura do caderno é projetada para ser um ponto de referência rápido e o
 
 O caderno está organizado em seções que seguem um fluxo de trabalho lógico de análise de dados. Cada seção detalha as funções, seu propósito, biblioteca utilizada e exemplos práticos.
 
-### 1\. Coleta e Geração de Dados 📥
+### 1\. Coleta e Geração de Dados
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
