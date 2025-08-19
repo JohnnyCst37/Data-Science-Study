@@ -5,16 +5,16 @@
 
 ## 📑 Sumário
 
-  - [Visão Geral](https://www.google.com/search?q=%23vis%C3%A3o-geral)
-  - [Estrutura e Tópicos](https://www.google.com/search?q=%23estrutura-e-t%C3%B3picos)
-  - [Coleta e Geração de Dados](https://www.google.com/search?q=%231-coleta-e-gera%C3%A7%C3%A3o-de-dados-%F0%9F%93%A5)
-  - [Limpeza e Preparação de Dados](https://www.google.com/search?q=%232-limpeza-e-prepara%C3%A7%C3%A3o-de-dados)
-  - [Engenharia de Recursos](https://www.google.com/search?q=%233-engenharia-de-recursos-feature-engineering-b%C3%A1sico)
-  - [Análise Estatística](https://www.google.com/search?q=%234-an%C3%A1lise-estat%C3%ADstica-e-agrega%C3%A7%C3%A3o)
-  - [Transformação de Variáveis](https://www.google.com/search?q=%235-transforma%C3%A7%C3%A3o-de-vari%C3%A1veis-pr%C3%A9-processamento-%F0%9F%94%84)
-  - [Visualização de Dados](https://www.google.com/search?q=%236-visualiza%C3%A7%C3%A3o-de-dados-essenciais-resumo)
-  - [Boas Práticas](https://www.google.com/search?q=%237-boas-pr%C3%A1ticas-e-modulariza%C3%A7%C3%A3o-%F0%9F%9A%80)
-  - [Autor](https://www.google.com/search?q=%23autor)
+  - [Visão Geral](#visao-geral)
+  - [Estrutura e Tópicos](#estrutura-e-topicos)
+  - [Coleta e Geração de Dados](#coleta-e-geracao-de-dados)
+  - [Limpeza e Preparação de Dados](#limpeza-e-preparacao-de-dados)
+  - [Engenharia de Recursos](#engenharia-de-recursos)
+  - [Análise Estatística](#analise-estatistica)
+  - [Transformação de Variáveis](transformacao-de-variaveis)
+  - [Visualização de Dados](#visualizacao-de-dados)
+  - [Boas Práticas](#boas-praticas)
+  - [Autor](#autor)
 
 -----
 
