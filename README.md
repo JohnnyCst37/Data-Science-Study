@@ -13,7 +13,7 @@
   - [Análise Estatística](#análise-estatística)
   - [Transformação de Variáveis](transformacao-de-variáveis)
   - [Visualização de Dados](#visualização-de-dados)
-  - [Boas Práticas](#boas-práticas)
+  - [Boas Práticas](#boas-praticas)
   - [Autor](#autor)
 
 -----
