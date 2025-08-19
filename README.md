@@ -9,11 +9,11 @@
   - [Estrutura e Tópicos](#estrutura-e-tópicos)
   - [Coleta e Geração de Dados](#coleta-e-geração-de-dados)
   - [Limpeza e Preparação de Dados](#limpeza-e-preparação-de-dados)
-  - [Engenharia de Recursos](#engenharia-de-recursos:-feature-engineering-básico)
+  - [Engenharia de Recursos](#engenharia-de-recursos-básica)
   - [Análise Estatística](#análise-estatística-e-agregação)
   - [Transformação de Variáveis](transformação-de-variáveis:-pré-processamento)
   - [Visualização de Dados](#visualização-de-dados-essenciais:-resumo)
-  - [Boas Práticas](#-boas-práticas-e-modularização)
+  - [Boas Práticas](#boas-práticas-e-modularização)
   - [Autor](#autor)
 
 -----
@@ -64,7 +64,7 @@ O caderno está organizado em seções que seguem um fluxo de trabalho lógico d
 
 -----
 
-### Engenharia de Recursos: Feature Engineering Básico
+### Engenharia de Recursos Básica
 
 | Função | O que é | Para que serve | Biblioteca | Requisitos |
 | :--- | :--- | :--- | :--- | :--- |
